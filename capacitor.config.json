@@ -1,0 +1,6 @@
+{
+	"appId": "io.ionic.starter",
+	"appName": "3-tipi",
+	"webDir": "dist",
+	"bundledWebRuntime": false
+}
